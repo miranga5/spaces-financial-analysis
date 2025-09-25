@@ -1,0 +1,449 @@
+GLCode,GL_Description                             
+1,Miscellaneous P&L Conversion
+100,Duty Paid Sales
+103,Duty Free & Export Sales
+104,Clearance Sales
+105,Ocean Spray Sales
+105O,Ocean Spray Contra
+106,Sales Price Variance
+107,CDS Ocean Spray
+108,Clearance Sales Discounts
+109,Discount Gross Off Invoice
+110,Tobacco Å Discount
+111,Discount Manual Adjustment
+112,Food Service Discount
+113,Off Invoice Base Seasonal Discount
+114,Container Deal
+115,Sales Volume Discount
+116,Seasonal Claims
+117,Clearance Claims
+118,Promotional Disc off invoice
+119,Rebate - Bonus
+119A,Terms & Discounts Dan & Fen
+120,Consolidated Terms
+120A,Consolidated Terms Over & Above
+121,Tradespend Danone & Fentimans
+122,Bonus Stock Recharge A&P
+123,Bonus Stock
+124,Ullage % Discount
+125,Claims Base Case Deals
+126,Claims Terms Co-op
+127,Promotional Costs Recovered
+128,Terms Recovery
+129,Ocean Spray Terms Recovery
+129O,Ocean Spray Tradespend Recovery
+130,Manual Discount
+131,Variable Case Deal
+132,Variable Community Chest
+133,Sundry sales
+134,Variable Scan Deal
+135,Over & Above Case Allowance claim
+136,Over & Above Co-op Claim
+137,OI Over & Above Clearance Discount
+138,Off Invoice Over & Above Case Deals
+139,Shopify & Paypal fees
+140,Prior Year Final PBF Adjustments
+141,Brand Partner Fixed Trade Spend Recovery
+142,Ocean Spray Fixed Trade Spend Recovery
+145,Brand partner Variable Trade Spend Recov
+146,Ocean Spray Variable Tradespend Recovery
+147,L&M Contract COGS CR
+148,L&M Contract COGS DR
+149,Intercompany Sales
+150,Duty Paid COGS
+151,Tobacco Duty
+152,Alcohol Excise
+153,Duty Free & Export COGS
+154,Clearance COGS
+155,Guylian - 7.5% Purchase Discount
+156,Variance - Supplier Price
+157,Stock Revaluation
+158,Wine Equalisation Tax
+159,Guylian - SPV Container Deals
+162,Variance - Freight
+163,Visa Detention
+164,Wharf storage Charges
+165,Variance - Duty
+168,Variance - Customs Clearing
+171,Variance - Frgn Pall/Fumig
+174,Stock Damages
+176,Logistic losses
+177,Stock Losses
+178,Evian - 27c Rebate
+179,Stock Losses & Damgages Recovery
+180,Stock Shorts
+181,Storage & Handling
+182,Relabelling Cost
+183,Sundry COS
+184,Repackaging Expense
+185,Pallets & Packaging
+186,Freight to Customer
+187,E-Commerce Freight Clearing
+189,Freight from Other Warehouse
+190,Additional Principal Support
+191,Ocean Spray Agency Fee
+192,Freight Recovery
+198,Transfer Sales to SANZ
+199,Transfer COGS to SANZ
+200,Interest Income
+201,Dividend Income
+202,Rental Income
+203,SAA Fees
+204,Unrealised Gain on Reval'n of Investment
+205,Received Cash Discount
+206,Dividend Income (External to Group)
+207,Other Trading Income
+208,Unrealised gain - Forward contracts
+220,Marketing SA Share
+222,Marketing Supplier Share
+224,Marketing Supplier Share Recovered
+229,Marketing SA Additional Exp
+232,Marketing Supplier Additional Expense
+235,Marketing Supplier Add Exp Recovered
+238,Marketing Overspend Adj & Supp Contrib
+240,Marketing Overspend Adj & Supp Contrib
+250,The Discerning Drinks Company
+260,New Business
+261,Packcentre Costs
+262,Packcentre Freight
+263,Selling Commission
+266,Setlement Discount
+269,Provision for Doubtful debts
+272,Bad debts
+275,Debt Collection Costs
+300,Salaries
+301,Bonus
+302,Saleslink Expense
+303,Payroll tax
+304,MV Costs - Salary Packaged
+306,Superannualtion -SGC
+307,Superannualtion -Sal Sacrifice
+308,Provision for Annual  leave
+309,Annual Leave
+311,Provision for Long Service leave
+312,Long Service leave
+315,FBT
+316,Staff Recruitment
+317,Overseas Travel
+318,Meal Entertainment Employee-TD & FBTable
+319,Travel - Accommodation & Meals Gen Bus
+320,Travel - Other
+321,Meal Entertainment Non-Employee - NTD
+321T,Entertainment Non-Employee- tax deduct
+322,Staff Training - Non FBT
+323,Staff Training-FBT
+324,Travel - Fares General Business
+325,Trade Shows
+326,MV Operating Lease Expense
+327,Petrol Employee
+328,Rep Storage
+329,Venue & Equipment Hire
+330,Vehicle /km Reimbursement
+331,Travel - Fares Cycle Meetings
+332,Travel - Accommodation & Meals Cycle M
+333,Vehicle Allowance
+334,Recreation Entertainment Emp-FBTable &TD
+335,Recreation Ent Emp - exempt FBT & NTD
+336,M3 Upgrade - Depreciation
+337,Lease Amortisation Finance Leases
+338,Recreation Ent Non-Emp - NTD
+339,P&L Sale vehicle
+340,Property Fringe Benefits
+341,Lease Amortisation - Non Deductible FL
+342,Vehicle Repairs & Maintenance
+343,Site Supplies
+344,In-House Refreshments
+345,Payroll Expense
+346,Subcontract Labour
+347,Medical
+348,Newspapers/periodicals
+349,Minor FBT Items
+350,Commercial Hire Purchase - Computers
+351,Other Repairs & maint
+352,Depn Furn Fittings & Equipment
+353,"P & L Sale F,F&E"
+354,Project Farm Amort
+355,Lease Asset Amortisation Clearing
+356,Insurance
+356A,Insurance
+359,Home office expenses
+360,Accrued Expenses
+361,MIS Licence/Usage Fees
+362,System Maintenance Contracts
+363,System Support
+364,System Projects
+365,Depn Buildings
+366,Computer Operating Leases
+367,P&L Sale Buildings
+369,Depn Office Refurbishment
+370,Depn Promax upgrade
+371,Electricity  & Gas
+372,Land Tax
+373,Couriers
+374,Postage
+375,Telephone - Data
+376,Telephone-Mobile
+377,Telephone - Fixed
+377F,Telephone - FBT
+378,Cleaning
+379,Photocopy & Fax Paper
+380,Rent
+381,Computer Accessories
+382,Preprinted Stationery
+383,Diffords Guide
+384,Rates
+385,Rent (Audit adjustment)
+386,Office Equipment Op Leasing
+387,Stationery
+388,Photocopying
+389,Subscriptions - Non FBT
+389F,Subscriptions - FBT
+390,Donations - Deductible
+391,Office Furniture Op Leasing
+392,Quality Management Systems
+393,Donation - With GST
+394,Gifts - Non FBT
+395,Gift - no GST
+396,Consulting-Non Operating
+397,Relocate Warehouse
+398,Management Fees
+400,Audit Fees
+403,Payroll Support Costs
+406,Consulting Legal
+409,Consulting Other
+410,Directors fees and board costs
+411,Filing Fees
+412,Bank Charges
+413,FID/BAD
+414,Var FX payments Other
+415,Var FX payments Stock
+418,Goodwill Amortisation
+419,Trademark Amortisation
+447,MD/ Board Initiatives
+448,Finance Lease Interest Clearing
+449,Special projects expense recovery
+450,Interest Expense
+451,Projects
+452,NZ Fund Support
+453,Inc Tax Current Year
+456,Inc Tax Prior Year
+459,Inc Tax Deferred
+462,Inc Tax FITB
+465,Dividends Paid
+470,Expense Recharge
+495,P / L  for the Year
+498,Extraordinary Items
+500,Petty Cash
+505,CBA Cash (1884)
+506,CBA Term Deposit (Guarantee)
+507,CBA Bank Account
+508,Westpac Cash Reserve A/C
+509,CMA
+510,Westpac C/A -
+511,CBA Term Deposit
+512,WBC Term Deposit (Guarantee)
+513,Overseas Payments Clearing
+514,Derivative Financial Asset
+515,Unallocated Receipts
+516,Returned Cheques
+517,Inter Company Expenses
+518,NZ Receivables
+519,Accounts Receivable Control - Intercomp.
+520,Accounts Receivable Control
+520OS,Ocean Spray AR Control
+521,Investment in MOI Agencies Limied
+521A,Loan to MOI Agencies Limited
+522,Other Debtors
+523,Hershey Recharge
+524,OS CDS Clearling
+525,CBA Mastercard Clearing
+526,Bonus & Samples Clearing
+527,Prepayments
+528,Toll Account Prepaid
+529,PVM Recharge
+530,Provision for Doubtful Debts
+531,Dalmeny Warehouse Costs
+532,Stock Invoice Prepayments
+533,Ocean Spray Sales Clearing
+534,Ocean Spray Agency Fee Clearing
+535,Ocean Spray Storage Clearing
+536,Ocean Spray Freight Clearing
+537,Group Management Recharge
+538,Relabelling Cost Recharge Hershey's
+539,LTI Clearing
+540,Goods Delivered Not Invoiced
+541,Goods Returned Clearing
+542,Recharge MF Detention & Wharf Charges
+543,Recharge BP Detention & Wharf Charges
+545,Goods Received not Invoiced
+546,Goods In Transit Australia only
+547,Westpac Business One
+550,Inventory
+555,Stock in Transit
+556,Tobacco Swap Stock
+557,Warehouse Clearing
+558,Sundry Stock
+559,Repacking Stock Clearing
+560,Principal overhead recharges
+561,Revaluation of Stocks
+562,NZ Debit Notes Receivable
+563,Emp Exps Clearing
+564,Emp Exps Clearing No GST
+570,PVM Control Account
+571,Hershey Control Account
+572,Lotus Control Account
+573,Hermestas Control Account
+574,T2 Control Account
+580,Accrued BP Recovery Fixed
+581,Accrued BP Recovery VTS
+613,M3 upgrade- Accum Amort
+650,Investments Cost
+655,Investments-Tax Group
+657,Shares in Public Company's
+658,Loan to Prism UK
+660,Vehicles Cost
+661,M3 upgrade- Accum Amort
+662,MV - Leased.
+663,"MV""S - Accumulated Amortisation"
+664,"Furniture, Fixtures & Fittings Cost"
+665,M3 Upgrade 2017
+666,"Furniture, Fixtures & Fittings Depn Prov"
+667,Land
+668,Buildings Cost
+669,IT Equipment Depn Prov
+670,Project FARM
+671,FARM Amortisation
+672,Office Refurbishment
+673,Office Refurbishment Prov for Depn
+675,Goodwill Cost
+676,Accumulated Goodwill Amortisation
+677,Trademarks & Patent Cost
+678,Accum Amort Trademarks & Patents
+679,Asset- Work In Progress
+680,Impairment Provision Brand Names
+681,Promax Upgrade 2019
+682,Promax upgrade- Accum Amort
+685,FITB
+700,Accounts Payable Control
+701,AP Clearing Ö Live
+702,Other Creditors
+703,Payments Clearing Account
+704,Retained Licence Fees
+705,"Promo Suspense  Ö ""Go Live"""
+706,"Mark Down Allow  Ö ""Go Live"""
+707,Goods Paid in Advance
+708,Accounts Payable Control - Intercompany
+709,Current Lease Liabilities
+710,Trade Spend Clearing
+711,Co-op Clearing
+712,AP-Goods in Transit
+713,Co-op Promotions Clearing
+714,Case Allowance Promotions Clearing
+715,Support Rebate Clearing
+716,Promotional  Rebate Clearing
+717,Loyalty Disc  Clearing
+718,Monthly Credit  Clearing
+719,DJ's Range Accruals  Clearing
+720,Goods Stored Not Invoiced
+721,Duty Clearing
+722,Duty Clearing Weekly
+723,Duty Pre Mod Clearing
+724,Alcohol Excise Clearing Sales
+730,Sales Tax Payable 1
+740,GST Clearing Account
+741,GST Receivable
+742,GST Payable
+743,Withholding Tax
+744,GST Receivable-Capital
+745,Accruals
+746,WET Payable
+747,WET Receivable
+748,GST Deferred
+749,GST Receivable on Deferrals
+750,E-Commerce Shipment Clearing Account
+751,Make Good Provision
+752,WET Payable
+760,Promotional Claims Provision
+761,Promotional Claims V8
+762,Rebate-Bonus Reservation
+763,Terms V8
+764,Royalty Fees
+765,Promotional Coop Tabasco
+766,Terms V10
+767,Promotional Claims V10
+768,FTS Provision
+769,VTS Provision
+770,Provision Annual Leave
+771,Provision Income Tax- Current
+772,Provision LSL
+773,Provision - Land tax
+774,Provision Other
+775,Payroll Clearing
+776,Current Lease Liability
+777,Payroll Clearing
+778,Provision Deferred Tax
+779,Payroll Clearing - Deductions
+780,WE Browne - Loan
+781,SP Browne - Loan
+782,Dalmeny Nominees Ltd
+783,Due from Cavour to SA&Co
+784,Ribeauville Investments- Loan
+785,RL Browne - Loan
+786,K Calwell - Loan
+787,E B  Browne - Loan
+788,Kelvin James Pty Ltd
+789,Shareholder Loan
+790,Westpac Loan
+791,CBA Loan
+792,WBC Loan- Software
+793,Entertainment Committee
+794,Stuart Alexander Trust Distribution
+795,AA Marks Pty Ltd
+796,Westpac Funding
+799,Dividend Payable
+810,Overseas Freight
+811,Customs & Landing Charges
+812,Transit Insurance
+813,Foreign Pallets/Fumigation
+814,Additional Costs Prov'n
+815,Outsourced Storage
+816,Intercompany Fee
+817,Additional Costs 2
+818,Alcohol Excise Clearing Purchase
+820,Storage & Handling
+854,Long Service Leave- Non-curr Liability
+855,Non Curr Lease Liab
+856,Due from SA&Co to President Food
+860,Due from Frossard to SA&Co
+861,Due from Ultimo Inv to SA&Co
+862,Due to Kelvin James Pty Ltd
+863,Due from Ultimo Investments to 1884
+864,SA&CO to Kimberley Grove Loan
+865,Due from SA&Dis to SA&Co
+866,Due from SA&Co Interstate to SA&Co
+867,SA&Co to NZ
+867A,From SA&Co to SA NZ Provision
+868,From Frossard to SA Holdings
+869,From Frossard to SA Consolidated
+870,From SA Holdings to SA Australia
+871,From SA Consolidated to SA Aust
+872,From SA&Co to SA Aust
+872A,From SA&Co to SA Aust Provision
+873,SA&Co to 1884 Pty Ltd
+874,Frossard to 1884
+874A,NZ to 1884
+875,1884 to SA(Australia)
+875A,From 1884 to SA Aust Provision
+876,1884 P&I Loan
+900,Issued Capital
+904,Capital Profits Reserve POST
+905,Capital Profits Reserve PRE
+906,Asset Revaluation Reserve
+907,Capital Redemption Reserve
+908,Share Premium Reserve
+910,Retained Profits
+915,Profit & Loss
+998,Miscellaneous B/S Conversion
+999,Cancellation ac
+X900,Inventory Cutover
+504,Variable Discount

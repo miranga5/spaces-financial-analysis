@@ -1,0 +1,86 @@
+CostCtr,CostCtr_Description                             
+10,Accounting
+1113,Administrative Services
+17,Analytics & Insights
+18,Audit & Compliance
+20,Bottling
+22,Brand Management
+22G,Budgeting
+22R,Business Intelligence
+24,Call Centre
+26,Category Management
+30,Cold Chain Management
+32,Communications
+32G,Corporate Affairs
+32R,Corporate Social Responsibility
+34,Cost Control
+36,Customer Experience
+40,Customer Insights
+42,Customer Service
+42G,Data Analytics
+42R,Digital Marketing
+44,Digital Platforms
+46,Distribution
+50,E-Commerce
+52,Employee Relations
+52G,Environmental Health & Safety
+52R,Event Marketing
+52W,Experiential Marketing
+54,Facilities Management
+56,Field Sales
+60,Finance
+62,Fleet Management
+62G,Forecasting
+62R,Human Resources
+62W,Innovation
+64,Internal Audit
+66,Inventory Management
+70,IT
+72,Key Accounts
+72G,Labeling
+72R,Learning & Development
+74,Legal
+76,Logistics
+85,Logistics Planning
+86,Maintenance
+87,Manufacturing
+88,Market Research
+88C,Marketing
+88D,Operations
+88L,Operations Support
+89,Packaging
+89H,Payroll
+90,Performance Management
+91,Procurement
+91B,Procurement Support
+91C,Product Development
+91F,Product Innovation
+91I,Production
+91L,Project Management
+91M,Promotions
+91S,Public Relations
+91T,Purchasing
+92,Quality Assurance
+92E,Quality Control
+92F,Recruitment
+92G,Regulatory Affairs
+92P,Reporting
+92R,Research & Development
+92T,Retail Execution
+92W,Risk & Governance
+93,Sales
+93E,Sampling
+94,Security
+95,Shopper Insights
+96,Sponsorships
+97,Strategic Planning
+97B,Supplier Relations
+97T,Supply Chain
+98,Sustainability
+98S,Systems Support
+99,Tax
+N91F,Trade & Export
+Q91F,Trade Marketing
+S91F,Treasury
+V91F,Vendor Management
+W91F,Warehousing
