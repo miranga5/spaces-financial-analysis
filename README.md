@@ -4,7 +4,7 @@ This repository contains Python scripts for analyzing retail general ledger (GL)
 
 ## Dataset
 
-The dataset used in this analysis was modeled after a real retail dataset but has been fully synthesized for the purpose of this project. All data points are fictional and do not represent any real company.
+The dataset used in this analysis was modeled after a real retail dataset but has been fully synthesized for the purpose of this project. All data points are fictional and do not represent any real company. The source CSV files were combined toa PARQUET file to accomodate the volume
 
 ## Features
 
