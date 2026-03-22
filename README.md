@@ -1,37 +1,52 @@
-# Retail GL & Financial Analytics
+# Retail Financial Analytics & GL Data Modelling
+## Overview
+This project focuses on transforming raw general ledger (GL) data into a structured, analytics-ready dataset to support financial performance analysis and decision-making.
 
-This repository contains Python scripts for analyzing retail general ledger (GL) and financial data. The analysis covers data cleaning, aggregation, and visualization of top/bottom GL codes and brands, profit metrics (Gross Profit, EBIT, Net Profit), and key financial ratios (ROA, ROE, GP Margin).  
+The objective was not just to analyse financial data, but to replicate how finance data is prepared, modelled, and interpreted in real-world environments.
+
+## Problem Context
+Retail financial data is often fragmented across transactions and lacks a consistent structure for analysis. This makes it difficult to:
+
+- Identify performance trends across time
+- Analyse profitability by segment (e.g. brand, GL category)
+- Derive meaningful financial ratios
+- Perform scalable, repeatable analysis
+
+## Approach
+### Data Preparation & Modelling
+
+- Cleaned and standardised raw GL transaction data
+- Consolidated multiple CSV sources into a single Parquet dataset for performance and scalability
+- Structured data to support time-based and dimensional analysis
+
+### Financial Analysis
+
+- Built logic for:
+  Gross Profit, EBIT, Net Profit
+  Key ratios: ROA, ROE, Gross Profit Margin
+  
+- Aggregated results across:
+  Time (monthly, quarterly)
+  GL codes
+  Brand segments
+  
+## What This Enables
+- Scalable financial reporting from structured datasets
+- Faster identification of performance drivers
+- Foundation for advanced use cases such as:
+- forecasting
+- anomaly detection
+- margin optimisation
 
 ## Dataset
+The dataset is fully synthesised and modelled to reflect realistic retail financial structures.
+It does not represent any real organisation.
 
-The dataset used in this analysis was modeled after a real retail dataset but has been fully synthesized for the purpose of this project. All data points are fictional and do not represent any real company. The source CSV files were combined toa PARQUET file to accomodate the volume
+## Technical Stack
+- Python (pandas, numpy)
+- Data storage: Parquet
+- Visualisation: matplotlib, seaborn
 
-## Features
-
-- Data cleaning and preprocessing of GL transactions
-- Top 10 GL codes by post amount and monthly trends
-- Gross Profit, EBIT, Net Profit analysis over time
-- Profit analysis by brand
-- Key financial ratios: ROA, ROE, GP Margin
-- Correlation analysis: Sales vs COGS, Marketing Spend vs Sales
-- Visualizations: bar charts, line charts, stacked area charts, lollipop charts, scatter plots with regression
-
-## Requirements
-
-- Python 3.10+
-- pandas
-- matplotlib
-- seaborn
-- numpy
-
-## Usage
-
-1. Clone the repository
-2. Install required libraries
-3. Run individual scripts for each analysis
-4. Modify paths to point to your local dataset if needed
-
-## Note
-
-All PostAmount values are converted to positive values where necessary for consistent analysis. Quarters, months, and years are used for time-based aggregation and trends.
-
+## Key Notes
+- Post amounts were standardised to ensure consistency across analysis
+- Time-based aggregations (month, quarter, year) were used to support trend analysis
